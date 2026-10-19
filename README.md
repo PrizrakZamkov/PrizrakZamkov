@@ -53,7 +53,7 @@
 
 <h3 align="left">⭐ Ещё</h3>
 <br>- 📄 Дипломная работа на английском по пиксель-арт анимации (разрабатывается)
-<br>- 🏁 Геймджемы
+<br>- 🏁 Геймджемы <a href="https://prizrakzamkov.itch.io/">prizrakzamkov.itch.io</a>
 <br> <br>
 
 ###
