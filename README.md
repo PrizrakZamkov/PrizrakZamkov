@@ -1,8 +1,8 @@
 <h1 align="center">PrizrakZamkov</h1>
 
-<p align="center"> <a href="https://prizrakzamkov.github.io/cv-website/">CV page</a></p>
+<p align="center"><a href="https://prizrakzamkov.github.io/cv-website/">Сайт-резюме</a> · <a href="https://prizrakzamkov.itch.io/">itch.io</a></p>
 
-<p align="center">Unity / C# и React / TypeScript</p>
+<p align="center">Игры на Unity и интерфейсы на TypeScript / React</p>
 
 <!--
 <div align="center">
@@ -14,48 +14,38 @@
 
 ###
 
-<h3 align="left">🧩 Как работаю</h3>
-<br>- 👥 В команде и самостоятельно
-<br>- 🧠 ООП, структуры данных, алгоритмы, паттерны <em>(SOLID, конечные автоматы, внедрение зависимостей)</em>
-<br>- 🔄 Git Flow, trunk-based, code review <em>(Agile, Scrum, Kanban | Jira, Trello)</em>
-<br>- 🌍 Английский B2
+<h3 align="left">🚀 Стек</h3>
+<br>- 🎮 <strong>Unity 6</strong> <em>(C#, URP, 2D и 3D, Shader Graph, Input System, Animator, Particle System)</em>
+<br>- 🖥️ <strong>Frontend</strong> <em>(HTML, CSS, JavaScript, TypeScript, React)</em>
+<br>- 📱 <strong>Мобильное</strong> <em>(Android, Kotlin)</em>
+<br>- 🧠 <strong>Код</strong> <em>(ООП, SOLID, Git Flow)</em>
+<br>- 🛠️ <strong>Инструменты</strong> <em>(Git, GitHub Actions, Docker, Blender, Krita)</em>
+<br>- 🐍 <strong>Бэкенд</strong> <em>(Python, Node.js, SQL, PostgreSQL)</em>
+<br>- 👀 Знаком/Прочее: <em>Zenject, VContainer, UniTask, Addressables, DOTween, HLSL, FastAPI, C++, Java</em>
 <br> <br>
-
-<h3 align="left">🚀 Стек и направления</h3>
-<br>- 🎮 Игры на Unity 6 <em>(C#, URP, 2D и 3D, HD-2D, ScriptableObjects, Input System, Addressables, DOTween, Animator, Particle System)</em>
-<br>- 🏗️ Архитектура в Unity <em>(Zenject, VContainer, UniRx, UniTask)</em>
-<br>- 🖌️ Графика <em>(Shader Graph, HLSL, свет, постобработка | Blender, Krita, Mixamo)</em>
-<br>- 📱 Мобильные игры и оптимизация <em>(Profiler, Frame Debugger, draw calls, пулинг, IL2CPP | Android, WebGL)</em>
-<br>- 🌐 Сеть и SDK в играх <em>(Netcode for GameObjects, Photon | Firebase, Unity Ads, нативные плагины)</em>
-<br>- 🛠️ Инструменты редактора Unity <em>(Editor tools, пакеты)</em>
-<br>- 🖥️ Frontend <em>(HTML5, CSS3, JavaScript, TypeScript | React, Next.js)</em>
-<br>- 🗂️ Данные на клиенте <em>(Redux Toolkit, Redux Saga, Zustand, React Query, React Hook Form, Formik | REST, WebSocket, CORS)</em>
-<br>- 🐍 Backend и базы <em>(Python | FastAPI, Flask, Django, Streamlit | Node.js | SQL, PostgreSQL)</em>
-<br>- ♾️ CI/CD <em>(Git, Git LFS, GitHub Actions, GameCI, Docker)</em>
-<br>- 💾 C++, C, Java
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cs,unity,blender,firebase,ts,js,html,css,react,nextjs,webpack,nodejs&perline=15" alt="stack" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=py,fastapi,flask,django,postgres,cpp,c,java,git,github,githubactions,docker&perline=17" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=cs,unity,blender,ts,js,html,css,react,nodejs,py,git,docker&perline=12" alt="stack" />
 </div>
 
 ###
 
-<h3 align="left">🎯 Проекты</h3>=
-<br>- 🌆 <strong>HD2D Kit</strong> <em>(ассет для пиксельных спрайтов в 3D-мире на Unity 6 URP, не окончательная версия)</em>
-<br>- 📖 <a href="https://github.com/PrizrakZamkov/memory"><strong>Gamefolk</strong></a> <em>(сайт-дневник людей из игр)</em>
-<br>- ⚔️ <strong>Платформер с процедурными уровнями</strong> <em>(Unity)</em>
-<br>- ✍️ <strong>Survivor-like на Android</strong> <em>(заклинания рисуются знаками)</em>
-<br>- 🪥 <strong>Чистка</strong> <em>(Android-напоминалка)</em>
-<br>- 🧱 <strong>Content blocker</strong> <em>(расширение для браузеров, скрывает блоки на страницах по текстовому контенту в них)</em>
+<h3 align="left">🎯 Проекты</h3>
+<br>- 🗓️ <a href="https://prizrakzamkov.github.io/schedule-planner/"><strong>Планировщик недели</strong></a> <em>(задачи сами раскладываются по свободным окнам, TypeScript)</em> · <a href="https://github.com/PrizrakZamkov/schedule-planner">код</a>
+<br>- ✍️ <a href="https://prizrakzamkov.itch.io/wizard-survivors"><strong>Wizard Survivors</strong></a> <em>(survivor-like, заклинания кастуются рисованием знаков пальцем)</em>
+<br>- 📖 <a href="https://github.com/PrizrakZamkov/memory"><strong>Gamefolk</strong></a> <em>(сайт-дневник людей из игр, React + Node.js)</em>
+<br>- 📦 <a href="https://ray326sq.itch.io/pvz-game"><strong>Пункт выдачи в апокалипсис</strong></a> <em>(командная работа от GDD до защиты, Unity)</em> · <a href="https://github.com/PrizrakZamkov/PVZ-game-public-save">код</a>
+<br>- 🌆 <strong>HD2D Kit</strong> <em>(пиксельные спрайты в 3D-мире на Unity 6 URP, не окончательная версия)</em>
+<br>- 🧱 <strong>Content Blocker</strong> <em>(расширение для браузеров: скрывает блоки на странице и блоки по ключевым словам)</em>
+<br>- 🪥 <a href="https://github.com/PrizrakZamkov/tooth-app"><strong>Чистка</strong></a> <em>(Android-напоминалка, Kotlin)</em>
 <br> <br>
 
 <h3 align="left">⭐ Ещё</h3>
-<br>- 📄 Дипломная работа на английском по пиксель-арт анимации (разрабатывается)
-<br>- 🏁 Геймджемы <a href="https://prizrakzamkov.itch.io/">prizrakzamkov.itch.io</a>
+<br>- 🏁 Геймджемы: <a href="https://prizrakzamkov.itch.io/unemployed-freedom">Unemployed Freedom</a>, <a href="https://prizrakzamkov.itch.io/aim-training">Aim Training</a> — игры от идеи до публикации за выходные
+<br>- 🧩 <a href="https://github.com/PrizrakZamkov/cv-website">Сайт-резюме</a> написан с нуля, без шаблонов и фреймворков
+<br>- 📄 Дипломная работа — инструмент для пиксель-арта, в разработке
 <br> <br>
 
 ###
