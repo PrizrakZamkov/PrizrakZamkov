@@ -43,9 +43,9 @@
 <br> <br>
 
 <h3 align="left">⭐ Ещё</h3>
-<br>- 🏁 Геймджемы: <a href="https://prizrakzamkov.itch.io/unemployed-freedom">Unemployed Freedom</a>, <a href="https://prizrakzamkov.itch.io/aim-training">Aim Training</a> — игры от идеи до публикации за выходные
-<br>- 🧩 <a href="https://github.com/PrizrakZamkov/cv-website">Сайт-резюме</a> написан с нуля, без шаблонов и фреймворков
-<br>- 📄 Дипломная работа — инструмент для пиксель-арта, в разработке
+<br>- 🏁 Геймджемы: <a href="https://prizrakzamkov.itch.io/">itch.io</a></p>
+<br>- 🧩 <a href="https://github.com/PrizrakZamkov/cv-website">Сайт-резюме</a>
+<br>- 📄 Дипломная работа - инструмент для пиксель-арта, в разработке
 <br> <br>
 
 ###
