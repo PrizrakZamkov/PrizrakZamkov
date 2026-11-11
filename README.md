@@ -58,6 +58,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrizrakZamkov&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PrizrakZamkov&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=PrizrakZamkov&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="150" alt="stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=PrizrakZamkov&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages" />
 </div>
