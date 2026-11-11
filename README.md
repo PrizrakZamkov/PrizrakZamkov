@@ -36,14 +36,15 @@
 <br>- 🗓️ <a href="https://prizrakzamkov.github.io/schedule-planner/"><strong>Планировщик недели</strong></a> <em>(задачи сами раскладываются по свободным окнам, TypeScript)</em> · <a href="https://github.com/PrizrakZamkov/schedule-planner">код</a>
 <br>- ✍️ <a href="https://prizrakzamkov.itch.io/wizard-survivors"><strong>Wizard Survivors</strong></a> <em>(survivor-like, заклинания кастуются рисованием знаков пальцем)</em>
 <br>- 📖 <a href="https://github.com/PrizrakZamkov/memory"><strong>Gamefolk</strong></a> <em>(сайт-дневник людей из игр, React + Node.js)</em>
-<br>- 📦 <a href="https://ray326sq.itch.io/pvz-game"><strong>Пункт выдачи в апокалипсис</strong></a> <em>(командная работа от GDD до защиты, Unity)</em> · <a href="https://github.com/PrizrakZamkov/PVZ-game-public-save">код</a>
+<br>- 🤟 <a href="https://dorley174.itch.io/sign-game"><strong>Sign Game</strong></a> <em>(команда из 7 человек, Unity/C#: движение, Animator, UI, графика, VFX, координация задач)</em> · <a href="https://github.com/IU-Capstone-Project-2025/SignGame">код</a>
+<br>- 📦 <a href="https://ray326sq.itch.io/pvz-game"><strong>Пункт выдачи в апокалипсис</strong></a> <em>(командная работа на практике от GDD до защиты, Unity)</em> · <a href="https://github.com/PrizrakZamkov/PVZ-game-public-save">код</a>
 <br>- 🌆 <strong>HD2D Kit</strong> <em>(пиксельные спрайты в 3D-мире на Unity 6 URP, не окончательная версия)</em>
 <br>- 🧱 <strong>Content Blocker</strong> <em>(расширение для браузеров: скрывает блоки на странице и блоки по ключевым словам)</em>
 <br>- 🪥 <a href="https://github.com/PrizrakZamkov/tooth-app"><strong>Чистка</strong></a> <em>(Android-напоминалка, Kotlin)</em>
 <br> <br>
 
 <h3 align="left">⭐ Ещё</h3>
-<br>- 🏁 Геймджемы: <a href="https://prizrakzamkov.itch.io/">itch.io</a></p>
+<br>- 🏁 Геймджемы: <a href="https://prizrakzamkov.itch.io/unemployed-freedom">Unemployed Freedom</a> · <a href="https://prizrakzamkov.itch.io/deadpool-training">Aim Training</a>
 <br>- 🧩 <a href="https://github.com/PrizrakZamkov/cv-website">Сайт-резюме</a>
 <br>- 📄 Дипломная работа - инструмент для пиксель-арта, в разработке
 <br> <br>
